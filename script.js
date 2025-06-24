@@ -1,5 +1,5 @@
 // Weatherbit API Key (Get yours at https://www.weatherbit.io/api)
-const API_KEY = ""; 
+const API_KEY = "f29770f3f0724e1daaaefa2a8750359c"; 
 
 // DOM Elements (same as before)
 const cityInput = document.getElementById("city-input");
